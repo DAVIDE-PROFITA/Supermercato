@@ -1,0 +1,44 @@
+{
+    "magazzino": [
+        {
+            "nome": "Samsung Galaxy A32",
+            "tipologia": "Telefonia",
+            "descrizione": "Samsung Galaxy A32 5G Smartphone Android Senza SIM 6.4 Pollici, Display Infinity-U FHD+, 4 Fotocamere Posteriori, 4GB RAM e 128GB, Batteria 5.000 mAh, Awesome Black (Nero) [Versione Italiana]",
+            "prezzo": 699,
+            "quantita": 10,
+            "link_img": "SamsungA32.jpg"
+        },
+        {
+            "nome": "Sony BRAVIA",
+            "tipologia": "Televisori",
+            "descrizione": "Sony BRAVIA, KD-55X80L, LED, 4K HDR, Google TV, ECO PACK, BRAVIA CORE, Flush Surface Design, Modello 2023",
+            "prezzo": 949,
+            "quantita": 3,
+            "link_img": "SonyBravia.jpg"
+        },
+        {
+            "nome": "Hisense 43E63NT",
+            "tipologia": "Televisori",
+            "descrizione": "Hisense TV 43 4K Ultra HD 43E63NT, Smart TV VIDAA U7, Dolby Vision, HDR 10+, DTS Virtual:X, Game Mode Plus, Alexa Built-in, VIDAA Voice, Tuner DVB-T2/S2 HEVC 10, lativù 4K [Classe di efficienza energetica E]",
+            "prezzo": 420,
+            "quantita": 7,
+            "link_img": "hisense.png"
+        },
+        {
+            "nome": "Canon EOS 2000D body",
+            "tipologia": "Fotografia",
+            "descrizione": "Canon EOS 2000D body (APS-C 24,1 Mp, fino a 3fps, schermo 3 pollici, video FHD)",
+            "prezzo": 3,
+            "quantita": 8,
+            "link_img": "Canon2000D.jpg"
+        },
+        {
+            "nome": "VILTROX 23mm F1.4",
+            "tipologia": "Fotografia",
+            "descrizione": "VILTROX 23mm F1.4 Obiettivo per Nikon Z Fotocamera,Messa a fuoco automatica APS-C Grandangolare Obiettivo Lente per Nikon Z-Mount Serie Z5 Z50 Z6 Z6II Z7 Z7II Zfc",
+            "prezzo": 2,
+            "quantita": 46,
+            "link_img": "obiettivo.jpg"
+        }
+    ]
+}
