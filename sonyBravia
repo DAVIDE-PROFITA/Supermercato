@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sony BRAVIA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            margin: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="SonyBravia.jpg" alt="Sony BRAVIA">
+        <h1>Sony BRAVIA</h1>
+        <p><strong>Categoria:</strong> Televisori</p>
+        <p><strong>Descrizione:</strong> Sony BRAVIA, KD-55X80L, LED, 4K HDR, Google TV, ECO PACK, BRAVIA CORE, Flush Surface Design, Modello 2023</p>
+        <p><strong>Prezzo:</strong> &euro;949</p>
+        <p><strong>Disponibilit&agrave;:</strong> 3 unit&agrave;</p>
+    </div>
+</body>
+</html>
