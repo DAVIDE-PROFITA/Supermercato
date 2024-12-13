@@ -29,10 +29,9 @@
                
                 const prodotti = "sonyBravia.html";
                 
-                let str = "<tr><th>Nome</th><th>Tipologia</th><th>Prezzo</th><th>Descrizione</th>><th>Quantità</th><th>immagine</th></tr>"+
+                let str = "<tr><th>Nome</th><th>Tipologia</th><th>Prezzo</th><th>Quantità</th><th>immagine</th></tr>"+
                             "<tr><td>" + oggetto.magazzino[0].nome + 
-                            "</td><td>" + oggetto.magazzino[0].tipologia + 
-                            "</td><td>" + oggetto.magazzino[0].descrizione + 
+                            "</td><td>" + oggetto.magazzino[0].tipologia +  
                             "</td><td>" + oggetto.magazzino[0].prezzo + 
                             "</td><td>" + oggetto.magazzino[0].quantita + 
                             "</td><td>" + oggetto.magazzino[0].immagine + 
@@ -46,7 +45,6 @@
                     
                     str += "<tr><td>" + oggetto.magazzino[i].nome + 
                             "</td><td>" + oggetto.magazzino[i].tipologia + 
-                            "</td><td>" + oggetto.magazzino[i].descrizione + 
                             "</td><td>" + oggetto.magazzino[i].prezzo + 
                             "</td><td>" + oggetto.magazzino[i].quantita + 
                             "</td><td>" + oggetto.magazzino[i].immagine + 
